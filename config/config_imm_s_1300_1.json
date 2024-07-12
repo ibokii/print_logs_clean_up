@@ -1,0 +1,8 @@
+{
+    "input_file": "logs/s_1300_1/1/Executor.Flow.IMM.S-1300-1.20240710.log",
+    "cleaned_file": "output_files/s_1300_1/1/Executor.Flow.IMM.S-1300-1.20240710_cleaned.log",
+    "output_file": "output_files/s_1300_1/1/Executor.Flow.IMM.S-1300-1.20240710_timediff_result.xlsx",
+    "keywords": ["Put to queue(86)", "Calling DB stored procedure InsertToQueue:", "-->IN[ItemObjId]=\"", "GV(DiffProdCount) = 1"],
+    "keyword1": "GV(DiffProdCount) = 1",
+    "keyword2": "Calling DB stored procedure InsertToQueue:"
+}
